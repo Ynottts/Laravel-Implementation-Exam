@@ -225,7 +225,7 @@ CREATE TABLE `resumes` (
 --
 
 INSERT INTO `resumes` (`id`, `name`, `address`, `phone`, `email`, `objective`, `certifications`, `created_at`, `updated_at`) VALUES
-(1, 'Anthony P. Salvador', 'San Isidro, San Luis, Pampanga | Pamoanga, Philippines, 2014', '09634178106', 'thonysalvado30.@gmail.com', 'As an IT Student with A highly skilled and innovative Online Graphic Designer with a strong background in creating visually compelling digital content for web and social media platforms.', 'CISCO Networking Essentials - CISCO Networking Academy (2024)', '2024-10-26 01:43:42', '2024-10-26 01:43:42');
+(1, 'Anthony P. Salvador', 'San Isidro, San Luis, Pampanga | Pampanga, Philippines, 2014', '09634178106', 'thonysalvado30.@gmail.com', 'As an IT Student with A highly skilled and innovative Online Graphic Designer with a strong background in creating visually compelling digital content for web and social media platforms.', 'CISCO Networking Essentials - CISCO Networking Academy (2024)', '2024-10-26 01:43:42', '2024-10-26 01:43:42');
 
 -- --------------------------------------------------------
 
