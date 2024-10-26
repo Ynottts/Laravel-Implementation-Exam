@@ -26,7 +26,7 @@ class DatabaseSeeder extends Seeder
        
         Resume::create([
             'name' => 'Anthony P. Salvador',
-            'address' => 'San Isidro, San Luis, Pampanga | Pamoanga, Philippines, 2014',
+            'address' => 'San Isidro, San Luis, Pampanga | Pampanga, Philippines, 2014',
             'phone' => '09634178106',
             'email' => 'thonysalvado30.@gmail.com',
             'objective' => 'As an IT Student with A highly skilled and innovative Online Graphic Designer with a strong background in creating visually compelling digital content for web and social media platforms.',
